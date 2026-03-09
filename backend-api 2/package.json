@@ -1,0 +1,17 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "luna-server.mjs",
+  "dependencies": {
+    "nodemailer": "^8.0.1",
+    "swisseph": "^0.5.17"
+  },
+  "scripts": {
+    "start": "node luna-server.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
